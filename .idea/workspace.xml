@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8a419a4f-7118-49e9-93c6-14cd0620503f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/IndexLibrary.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/IndexElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/IndexElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Magazine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Magazine.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,6 +48,7 @@
   "keyToString": {
     "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "/Users/fabioran_/Documents/GitHub/u4d10_WeeklyProject/src/main/java/Main.java",
